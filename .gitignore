@@ -1,0 +1,14 @@
+# Python 虚拟环境目录
+.venv/
+
+# Python 字节码缓存目录
+__pycache__/
+
+# 环境变量敏感配置文件
+.env
+
+# 所有日志文件
+*.log
+
+# 本地存储目录
+storage/
